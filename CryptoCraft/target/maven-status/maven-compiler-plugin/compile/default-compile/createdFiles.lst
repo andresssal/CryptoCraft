@@ -1,0 +1,5 @@
+me\andresssal\cryptocraft\CryptoCraft.class
+me\andresssal\cryptocraft\trans\Transaccion.class
+me\andresssal\cryptocraft\commands\WebRender.class
+me\andresssal\cryptocraft\commands\MainCommand.class
+me\andresssal\cryptocraft\opennode\OpenNode.class

@@ -1,0 +1,7 @@
+name: CryptoCraft
+version: '1.0-SNAPSHOT'
+main: me.andresssal.cryptocraft.CryptoCraft
+api-version: 1.18
+commands:
+  cc:
+    description: Crypto Craft Main command
